@@ -1,0 +1,9 @@
+# The rendered mirror is built from the archive on every run, so it is not
+# worth committing. The workflow publishes it to GitHub Pages instead.
+/site
+
+# A local checkout of the archiver, made by `make archiver`.
+/.archiver
+
+__pycache__/
+*.py[cod]

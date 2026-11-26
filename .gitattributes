@@ -1,0 +1,14 @@
+# The archive is machine-generated. Collapse it in diffs on GitHub so a sync
+# commit shows as a summary rather than thousands of lines of JSON.
+archive/** linguist-generated=true
+
+# Uploaded files are opaque blobs named after their SHA-1, and are never
+# modified once written. Keep git from trying to diff or merge them.
+archive/uploads/** binary
+
+# Everything else is text. Pin the line endings so a sync run on a different
+# machine does not rewrite whole files.
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf

@@ -1,0 +1,196 @@
+name: sync
+
+# Archive the Discourse site this repository mirrors, commit whatever changed,
+# then render the archive into a static site and publish it to GitHub Pages.
+#
+# Everything site-specific lives in config.env; this file should not need
+# editing.
+
+on:
+  schedule:
+    # Nightly, at 03:41 UTC. Deliberately off the hour: runs scheduled on the
+    # hour queue behind everyone else's and start late.
+    - cron: '41 3 * * *'
+
+  workflow_dispatch:
+    inputs:
+      full_sync:
+        description: Re-fetch every post, not only the ones since the last sync
+        type: boolean
+        default: false
+      deploy_only:
+        description: Skip the sync, only rebuild and publish the mirror
+        type: boolean
+        default: false
+
+permissions:
+  # Commit the archive back to this repository.
+  contents: write
+  # Publish the mirror to Pages.
+  pages: write
+  id-token: write
+
+# One sync at a time. Two runs writing the archive would race each other, and
+# a queued run should wait rather than replace the one that is mid-fetch.
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    # A sync of a large site from scratch walks every post and downloads every
+    # image, which takes a while. Nightly runs finish in minutes.
+    timeout-minutes: 350
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Check out this archive
+        uses: actions/checkout@v4
+
+      - name: Read config.env
+        # Skip comments and blank lines; the rest is KEY=VALUE already.
+        run: grep -vE '^[[:space:]]*(#|$)' config.env >> "$GITHUB_ENV"
+
+      - name: Check out the archiver
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.ARCHIVER_REPO }}
+          ref: ${{ env.ARCHIVER_REF }}
+          path: .archiver
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Decide whether this is a full sync
+        id: mode
+        run: |
+          full=false
+          if [ "${{ inputs.full_sync }}" = "true" ]; then
+            full=true
+            echo "full sync: asked for by hand"
+          elif [ -n "${FULL_SYNC_DAY:-}" ] && [ "$FULL_SYNC_DAY" != "0" ] \
+            && [ "$((10#$(date -u +%d)))" -eq "$((10#$FULL_SYNC_DAY))" ]; then
+            full=true
+            echo "full sync: today is day $FULL_SYNC_DAY of the month"
+          else
+            echo "incremental sync"
+          fi
+          echo "full=$full" >> "$GITHUB_OUTPUT"
+
+      - name: Sync the archive
+        if: ${{ !inputs.deploy_only }}
+        env:
+          FULL: ${{ steps.mode.outputs.full }}
+        run: |
+          archiver() { python3 .archiver/archive.py -u "$DISCOURSE_URL" -t archive "$@"; }
+
+          # The archiver syncs posts created since .metadata.json's
+          # last_sync_date. Dropping that file makes it walk the whole site.
+          if [ "$FULL" = "true" ]; then
+            rm -f archive/.metadata.json
+          fi
+
+          # Images come along by default; config.env can turn them off.
+          images=()
+          if [ -z "${ARCHIVE_IMAGES:-}" ]; then images=(--no-uploads); fi
+
+          archiver "${images[@]}"
+
+          # Both backfills are no-ops once the archive is complete, so they are
+          # worth running every night: they repair anything a run that failed
+          # halfway through left missing.
+          archiver --backfill-topics
+          if [ -n "${ARCHIVE_IMAGES:-}" ]; then archiver --backfill-uploads; fi
+
+      - name: Commit the archive
+        # Runs even when the sync above failed, so a run that dies partway
+        # through keeps the posts it did fetch and the next one carries on.
+        if: ${{ !cancelled() && !inputs.deploy_only }}
+        env:
+          FULL: ${{ steps.mode.outputs.full }}
+        run: |
+          # A heartbeat, committed even on a night with no new posts. It shows
+          # when the sync last ran, and the commit counts as repository
+          # activity, which is what keeps GitHub from disabling the nightly
+          # schedule on a quiet forum.
+          date -u +%Y-%m-%dT%H:%M:%SZ > LAST_SYNC
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all LAST_SYNC
+          # Guarded, so that a sync which failed before it wrote anything
+          # reports its own error rather than an empty pathspec.
+          if [ -d archive ]; then git add --all archive; fi
+
+          if git diff --cached --quiet; then
+            echo "nothing changed, not committing"
+            exit 0
+          fi
+
+          count() { git diff --cached --name-only --diff-filter="$1" -- "$2" | wc -l; }
+          summary=""
+          for item in \
+            "$(count A archive/posts):new posts" \
+            "$(count M archive/posts):edited posts" \
+            "$(count A archive/topics):new topics" \
+            "$(count A archive/uploads):new uploads"; do
+            n=${item%%:*}
+            what=${item#*:}
+            if [ "$n" -eq 1 ]; then what=${what%s}; fi
+            if [ "$n" -gt 0 ]; then summary="${summary:+$summary, }$n $what"; fi
+          done
+          if [ -z "$summary" ]; then summary="no new posts"; fi
+
+          mode=incremental
+          if [ "$FULL" = "true" ]; then mode=full; fi
+
+          git commit --quiet \
+            -m "sync: $summary" \
+            -m "$mode sync of $DISCOURSE_URL" \
+            -m "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          # A push is only ever rejected here because someone committed to the
+          # branch while the sync was running. Rebase the sync commit on top of
+          # theirs and try once more.
+          if ! git push; then
+            echo "push rejected, rebasing onto the new head of $GITHUB_REF_NAME"
+            git pull --rebase --quiet origin "$GITHUB_REF_NAME"
+            git push
+          fi
+          git --no-pager log --oneline -1
+
+      - name: Configure Pages
+        id: pages
+        if: ${{ !cancelled() }}
+        uses: actions/configure-pages@v5
+
+      - name: Render the mirror
+        # Also runs after a failed sync: publishing the posts that are archived
+        # beats leaving the mirror stale while the failure is looked into.
+        if: ${{ !cancelled() }}
+        run: |
+          katex=()
+          if [ -n "${MIRROR_KATEX:-}" ]; then katex=(--katex); fi
+
+          python3 .archiver/mirror.py \
+            -u "$DISCOURSE_URL" \
+            -t archive \
+            -o site \
+            -s "${SITE_URL:-${{ steps.pages.outputs.base_url }}}" \
+            "${katex[@]}"
+
+      - name: Upload the mirror
+        if: ${{ !cancelled() }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to Pages
+        id: deploy
+        if: ${{ !cancelled() }}
+        uses: actions/deploy-pages@v4
