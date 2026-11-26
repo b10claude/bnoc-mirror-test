@@ -1,0 +1,65 @@
+{
+  "id": 108,
+  "title": "Steep increase in inbound connections on 2026-03-31 at 00:12 UTC",
+  "fancy_title": "Steep increase in inbound connections on 2026-03-31 at 00:12 UTC",
+  "slug": "steep-increase-in-inbound-connections-on-2026-03-31-at-00-12-utc",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-04-02T11:06:43.698Z",
+  "last_posted_at": "2026-04-02T18:25:12.300Z",
+  "posts_count": 6,
+  "reply_count": 1,
+  "like_count": 8,
+  "views": 284,
+  "participant_count": 3,
+  "word_count": 405,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": true,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/d0cf9edef0d882d427294dc59356a0f633e00664_2_1023x905.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 65,
+      "username": "bitprojects",
+      "name": "Joe Bp",
+      "avatar_template": "/user_avatar/bnoc.xyz/bitprojects/{size}/181_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 65,
+        "username": "bitprojects",
+        "name": "Joe Bp",
+        "avatar_template": "/user_avatar/bnoc.xyz/bitprojects/{size}/181_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 5,
+        "username": "Emzy",
+        "name": "Stephan Oeste",
+        "avatar_template": "/user_avatar/bnoc.xyz/emzy/{size}/14_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

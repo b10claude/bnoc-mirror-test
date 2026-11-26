@@ -1,0 +1,85 @@
+{
+  "id": 122,
+  "title": "Did the number of reachable nodes in residential ISPs increase since Bitcoin Core v30.0?",
+  "fancy_title": "Did the number of reachable nodes in residential ISPs increase since Bitcoin Core v30.0?",
+  "slug": "did-the-number-of-reachable-nodes-in-residential-isps-increase-since-bitcoin-core-v30-0",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-04-28T15:50:55.759Z",
+  "last_posted_at": "2026-05-12T15:07:54.428Z",
+  "posts_count": 10,
+  "reply_count": 4,
+  "like_count": 10,
+  "views": 321,
+  "participant_count": 5,
+  "word_count": 1784,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 3,
+      "username": "mzumsande",
+      "name": "Martin Zumsande",
+      "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 3,
+        "username": "mzumsande",
+        "name": "Martin Zumsande",
+        "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 5,
+        "username": "Emzy",
+        "name": "Stephan Oeste",
+        "avatar_template": "/user_avatar/bnoc.xyz/emzy/{size}/14_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

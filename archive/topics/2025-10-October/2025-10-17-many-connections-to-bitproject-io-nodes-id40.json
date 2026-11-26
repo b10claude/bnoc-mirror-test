@@ -1,0 +1,93 @@
+{
+  "id": 40,
+  "title": "Many connections to bitproject.io nodes?",
+  "fancy_title": "Many connections to bitproject.io nodes?",
+  "slug": "many-connections-to-bitproject-io-nodes",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2025-10-17T18:48:09.215Z",
+  "last_posted_at": "2026-04-02T17:36:03.602Z",
+  "posts_count": 30,
+  "reply_count": 15,
+  "like_count": 28,
+  "views": 1175,
+  "participant_count": 7,
+  "word_count": 2585,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": true,
+  "image_url": null,
+  "user_id": 8,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 8,
+      "username": "instagibbs",
+      "name": "Gregory Sanders",
+      "avatar_template": "/user_avatar/bnoc.xyz/instagibbs/{size}/34_2.png"
+    },
+    "last_poster": {
+      "id": 9,
+      "username": "Antoine",
+      "name": "Antoine Poinsot",
+      "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 10
+      },
+      {
+        "id": 8,
+        "username": "instagibbs",
+        "name": "Gregory Sanders",
+        "avatar_template": "/user_avatar/bnoc.xyz/instagibbs/{size}/34_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 65,
+        "username": "bitprojects",
+        "name": "Joe Bp",
+        "avatar_template": "/user_avatar/bnoc.xyz/bitprojects/{size}/181_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 20,
+        "username": "fjahr",
+        "name": "Fabian Jahr",
+        "avatar_template": "/user_avatar/bnoc.xyz/fjahr/{size}/242_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 3,
+        "username": "mzumsande",
+        "name": "Martin Zumsande",
+        "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 50,
+        "username": "willcl-ark",
+        "name": "Will Clark",
+        "avatar_template": "/user_avatar/bnoc.xyz/willcl-ark/{size}/148_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

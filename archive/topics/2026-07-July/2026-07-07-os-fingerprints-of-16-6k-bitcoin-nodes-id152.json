@@ -1,0 +1,58 @@
+{
+  "id": 152,
+  "title": "OS fingerprints of ~16.6k Bitcoin nodes",
+  "fancy_title": "OS fingerprints of ~16.6k Bitcoin nodes",
+  "slug": "os-fingerprints-of-16-6k-bitcoin-nodes",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-07-07T22:02:57.294Z",
+  "last_posted_at": "2026-10-09T14:00:36.001Z",
+  "posts_count": 4,
+  "reply_count": 0,
+  "like_count": 7,
+  "views": 104,
+  "participant_count": 2,
+  "word_count": 2328,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/e0547c0c921589ecefde385f7d6abf76b5069497_2_1024x512.png",
+  "user_id": 88,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 88,
+      "username": "ViniciusCestarii",
+      "name": "Vinicius Cestari",
+      "avatar_template": "/user_avatar/bnoc.xyz/viniciuscestarii/{size}/315_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 88,
+        "username": "ViniciusCestarii",
+        "name": "Vinicius Cestari",
+        "avatar_template": "/user_avatar/bnoc.xyz/viniciuscestarii/{size}/315_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

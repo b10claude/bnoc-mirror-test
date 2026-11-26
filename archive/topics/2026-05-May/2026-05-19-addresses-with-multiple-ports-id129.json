@@ -1,0 +1,64 @@
+{
+  "id": 129,
+  "title": "Addresses with multiple ports",
+  "fancy_title": "Addresses with multiple ports",
+  "slug": "addresses-with-multiple-ports",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 8,
+      "name": "addrman",
+      "slug": "addrman"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-05-19T08:05:58.858Z",
+  "last_posted_at": "2026-05-19T08:43:18.504Z",
+  "posts_count": 3,
+  "reply_count": 0,
+  "like_count": 3,
+  "views": 84,
+  "participant_count": 2,
+  "word_count": 418,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 43,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 43,
+      "username": "stratospher",
+      "name": "stratospher",
+      "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

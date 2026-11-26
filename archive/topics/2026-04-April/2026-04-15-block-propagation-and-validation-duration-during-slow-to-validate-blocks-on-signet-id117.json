@@ -1,0 +1,64 @@
+{
+  "id": 117,
+  "title": "Block propagation and validation duration during slow-to-validate blocks on Signet",
+  "fancy_title": "Block propagation and validation duration during slow-to-validate blocks on Signet",
+  "slug": "block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 7,
+      "name": "propagation",
+      "slug": "propagation"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-04-15T13:57:48.116Z",
+  "last_posted_at": "2026-05-07T13:23:01.182Z",
+  "posts_count": 7,
+  "reply_count": 4,
+  "like_count": 9,
+  "views": 267,
+  "participant_count": 2,
+  "word_count": 3169,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/314ad001ca0e7c3d2b3c3a86f23dc99582b6ea63_2_1024x539.jpeg",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 16,
+      "username": "ajtowns",
+      "name": "Anthony Towns",
+      "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 16,
+        "username": "ajtowns",
+        "name": "Anthony Towns",
+        "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png",
+        "post_count": 3
+      }
+    ]
+  }
+}

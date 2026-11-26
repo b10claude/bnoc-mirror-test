@@ -1,0 +1,71 @@
+{
+  "id": 167,
+  "title": "Electrum Server Monitoring: Header Propagation and Shared Infrastructure",
+  "fancy_title": "Electrum Server Monitoring: Header Propagation and Shared Infrastructure",
+  "slug": "electrum-server-monitoring-header-propagation-and-shared-infrastructure",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 12,
+      "name": "electrum",
+      "slug": "electrum"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-08-25T20:07:56.052Z",
+  "last_posted_at": "2026-08-27T17:25:22.464Z",
+  "posts_count": 5,
+  "reply_count": 2,
+  "like_count": 6,
+  "views": 118,
+  "participant_count": 3,
+  "word_count": 2081,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 82,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 82,
+      "username": "dutenrapha",
+      "name": "Raphael de Moraes Dutenkefer",
+      "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png"
+    },
+    "last_poster": {
+      "id": 82,
+      "username": "dutenrapha",
+      "name": "Raphael de Moraes Dutenkefer",
+      "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png"
+    },
+    "participants": [
+      {
+        "id": 82,
+        "username": "dutenrapha",
+        "name": "Raphael de Moraes Dutenkefer",
+        "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

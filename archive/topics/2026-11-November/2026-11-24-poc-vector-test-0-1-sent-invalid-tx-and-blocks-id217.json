@@ -1,0 +1,57 @@
+{
+  "id": 217,
+  "title": "/poc-vector-test:0.1/ sent invalid tx and blocks",
+  "fancy_title": "/poc-vector-test:0.1/ sent invalid tx and blocks",
+  "slug": "poc-vector-test-0-1-sent-invalid-tx-and-blocks",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-11-24T15:56:19.169Z",
+  "last_posted_at": "2026-11-24T15:56:19.240Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 21,
+  "participant_count": 1,
+  "word_count": 181,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 43,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 43,
+      "username": "stratospher",
+      "name": "stratospher",
+      "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png"
+    },
+    "last_poster": {
+      "id": 43,
+      "username": "stratospher",
+      "name": "stratospher",
+      "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png"
+    },
+    "participants": [
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

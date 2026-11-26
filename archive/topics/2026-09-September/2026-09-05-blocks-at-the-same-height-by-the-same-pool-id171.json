@@ -1,0 +1,57 @@
+{
+  "id": 171,
+  "title": "Blocks at the same height by the same pool",
+  "fancy_title": "Blocks at the same height by the same pool",
+  "slug": "blocks-at-the-same-height-by-the-same-pool",
+  "category_id": 8,
+  "tags": [
+    {
+      "id": 4,
+      "name": "fork",
+      "slug": "fork"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-09-05T20:20:49.646Z",
+  "last_posted_at": "2026-09-05T20:20:49.757Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 3,
+  "views": 42,
+  "participant_count": 1,
+  "word_count": 685,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/original/1X/cf891ffec106659597fd578b511b54bf5301f121.png",
+  "user_id": 11,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 11,
+      "username": "CedArctic",
+      "name": "Ced Arctic",
+      "avatar_template": "/user_avatar/bnoc.xyz/cedarctic/{size}/38_2.png"
+    },
+    "last_poster": {
+      "id": 11,
+      "username": "CedArctic",
+      "name": "Ced Arctic",
+      "avatar_template": "/user_avatar/bnoc.xyz/cedarctic/{size}/38_2.png"
+    },
+    "participants": [
+      {
+        "id": 11,
+        "username": "CedArctic",
+        "name": "Ced Arctic",
+        "avatar_template": "/user_avatar/bnoc.xyz/cedarctic/{size}/38_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

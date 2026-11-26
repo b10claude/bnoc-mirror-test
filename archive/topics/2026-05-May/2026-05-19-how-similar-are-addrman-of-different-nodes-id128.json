@@ -1,0 +1,78 @@
+{
+  "id": 128,
+  "title": "How similar are addrman of different nodes",
+  "fancy_title": "How similar are addrman of different nodes",
+  "slug": "how-similar-are-addrman-of-different-nodes",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 8,
+      "name": "addrman",
+      "slug": "addrman"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-05-19T06:15:33.873Z",
+  "last_posted_at": "2026-06-12T07:18:57.915Z",
+  "posts_count": 7,
+  "reply_count": 4,
+  "like_count": 21,
+  "views": 189,
+  "participant_count": 4,
+  "word_count": 1872,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/50a8ce1e753210c05a3904af87c804e322ea56f4_2_1024x895.png",
+  "user_id": 43,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 43,
+      "username": "stratospher",
+      "name": "stratospher",
+      "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 41,
+        "username": "danielabrozzoni",
+        "name": "Daniela Brozzoni",
+        "avatar_template": "/user_avatar/bnoc.xyz/danielabrozzoni/{size}/131_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 72,
+        "username": "m4ycon",
+        "name": "Maycon Fabio",
+        "avatar_template": "/user_avatar/bnoc.xyz/m4ycon/{size}/203_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

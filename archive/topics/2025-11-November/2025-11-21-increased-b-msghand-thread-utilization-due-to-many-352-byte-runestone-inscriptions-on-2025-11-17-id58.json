@@ -1,0 +1,71 @@
+{
+  "id": 58,
+  "title": "Increased b-msghand thread utilization due to many 352 byte runestone inscriptions on 2025-11-17",
+  "fancy_title": "Increased b-msghand thread utilization due to many 352 byte runestone inscriptions on 2025-11-17",
+  "slug": "increased-b-msghand-thread-utilization-due-to-many-352-byte-runestone-inscriptions-on-2025-11-17",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-11-21T15:37:36.884Z",
+  "last_posted_at": "2025-11-26T16:15:40.934Z",
+  "posts_count": 6,
+  "reply_count": 1,
+  "like_count": 4,
+  "views": 153,
+  "participant_count": 3,
+  "word_count": 1157,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/8328e713e628283d9c26e3a5a530ad329d7c4f15_2_1024x640.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 16,
+        "username": "ajtowns",
+        "name": "Anthony Towns",
+        "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

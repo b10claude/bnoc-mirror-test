@@ -1,0 +1,71 @@
+{
+  "id": 135,
+  "title": "Electrum Server Monitoring",
+  "fancy_title": "Electrum Server Monitoring",
+  "slug": "electrum-server-monitoring",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 12,
+      "name": "electrum",
+      "slug": "electrum"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-05-28T11:31:32.893Z",
+  "last_posted_at": "2026-11-23T19:10:56.010Z",
+  "posts_count": 6,
+  "reply_count": 2,
+  "like_count": 6,
+  "views": 207,
+  "participant_count": 3,
+  "word_count": 1136,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/8008f39ac706e18d22f7cfc3955cddbc19131ad5_2_1024x934.png",
+  "user_id": 82,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 82,
+      "username": "dutenrapha",
+      "name": "Raphael de Moraes Dutenkefer",
+      "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 23,
+        "username": "edilmedeiros",
+        "name": "Edil Medeiros",
+        "avatar_template": "/user_avatar/bnoc.xyz/edilmedeiros/{size}/82_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 82,
+        "username": "dutenrapha",
+        "name": "Raphael de Moraes Dutenkefer",
+        "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

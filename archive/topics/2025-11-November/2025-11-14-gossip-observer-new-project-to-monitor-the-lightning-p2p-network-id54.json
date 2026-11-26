@@ -1,0 +1,62 @@
+{
+  "id": 54,
+  "title": "Gossip Observer: New project to monitor the Lightning P2P network",
+  "fancy_title": "Gossip Observer: New project to monitor the Lightning P2P network",
+  "slug": "gossip-observer-new-project-to-monitor-the-lightning-p2p-network",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    },
+    {
+      "id": 5,
+      "name": "lightning",
+      "slug": "lightning"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-11-14T21:51:28.165Z",
+  "last_posted_at": "2025-11-14T21:51:28.274Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 4,
+  "views": 73,
+  "participant_count": 1,
+  "word_count": 388,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 14,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 14,
+      "username": "jonhbit",
+      "name": "Jonathan Harvey-Buschel",
+      "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png"
+    },
+    "last_poster": {
+      "id": 14,
+      "username": "jonhbit",
+      "name": "Jonathan Harvey-Buschel",
+      "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png"
+    },
+    "participants": [
+      {
+        "id": 14,
+        "username": "jonhbit",
+        "name": "Jonathan Harvey-Buschel",
+        "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

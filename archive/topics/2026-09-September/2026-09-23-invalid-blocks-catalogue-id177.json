@@ -1,0 +1,58 @@
+{
+  "id": 177,
+  "title": "Invalid blocks catalogue",
+  "fancy_title": "Invalid blocks catalogue",
+  "slug": "invalid-blocks-catalogue",
+  "category_id": 7,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-09-23T02:21:31.155Z",
+  "last_posted_at": "2026-09-24T19:29:41.688Z",
+  "posts_count": 2,
+  "reply_count": 0,
+  "like_count": 4,
+  "views": 59,
+  "participant_count": 2,
+  "word_count": 339,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 7,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 7,
+      "username": "deadmanoz",
+      "name": "Deadmanoz",
+      "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

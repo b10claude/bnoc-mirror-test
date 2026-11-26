@@ -1,0 +1,79 @@
+{
+  "id": 204,
+  "title": "Peer Map: a closer look at your node's peers",
+  "fancy_title": "Peer Map: a closer look at your node&rsquo;s peers",
+  "slug": "peer-map-a-closer-look-at-your-nodes-peers",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-11-06T10:27:25.724Z",
+  "last_posted_at": "2026-11-25T18:42:58.116Z",
+  "posts_count": 12,
+  "reply_count": 8,
+  "like_count": 24,
+  "views": 144,
+  "participant_count": 5,
+  "word_count": 1280,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 97,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 97,
+      "username": "benunskilled",
+      "name": "Benunskilled",
+      "avatar_template": "/user_avatar/bnoc.xyz/benunskilled/{size}/411_2.png"
+    },
+    "last_poster": {
+      "id": 97,
+      "username": "benunskilled",
+      "name": "Benunskilled",
+      "avatar_template": "/user_avatar/bnoc.xyz/benunskilled/{size}/411_2.png"
+    },
+    "participants": [
+      {
+        "id": 97,
+        "username": "benunskilled",
+        "name": "Benunskilled",
+        "avatar_template": "/user_avatar/bnoc.xyz/benunskilled/{size}/411_2.png",
+        "post_count": 7
+      },
+      {
+        "id": 23,
+        "username": "edilmedeiros",
+        "name": "Edil Medeiros",
+        "avatar_template": "/user_avatar/bnoc.xyz/edilmedeiros/{size}/82_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

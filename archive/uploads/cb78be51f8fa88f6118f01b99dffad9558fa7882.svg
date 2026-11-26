@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="56" fill="#1a1a19"/>
+  <g fill="none" stroke="#52514e" stroke-width="6">
+    <circle cx="128" cy="128" r="84"/>
+    <ellipse cx="128" cy="128" rx="38" ry="84"/>
+    <path d="M44 128h168M58 86h140M58 170h140"/>
+  </g>
+  <g stroke="#c3c2b7" stroke-width="5" stroke-linecap="round">
+    <path d="M128 128 88 92M128 128l52-18M128 128l14 54"/>
+  </g>
+  <circle cx="128" cy="128" r="14" fill="#ffffff"/>
+  <circle cx="88" cy="92" r="17" fill="#3987e5" stroke="#1a1a19" stroke-width="5"/>
+  <circle cx="180" cy="110" r="17" fill="#d95926" stroke="#1a1a19" stroke-width="5"/>
+  <circle cx="142" cy="182" r="17" fill="#199e70" stroke="#1a1a19" stroke-width="5"/>
+</svg>

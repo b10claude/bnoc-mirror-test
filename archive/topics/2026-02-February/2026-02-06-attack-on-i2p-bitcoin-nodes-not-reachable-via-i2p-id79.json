@@ -1,0 +1,76 @@
+{
+  "id": 79,
+  "title": "Attack on I2P: Bitcoin nodes not reachable via I2P",
+  "fancy_title": "Attack on I2P: Bitcoin nodes not reachable via I2P",
+  "slug": "attack-on-i2p-bitcoin-nodes-not-reachable-via-i2p",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    },
+    {
+      "id": 6,
+      "name": "i2p",
+      "slug": "i2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-02-06T13:51:36.484Z",
+  "last_posted_at": "2026-02-12T20:57:07.052Z",
+  "posts_count": 6,
+  "reply_count": 1,
+  "like_count": 8,
+  "views": 438,
+  "participant_count": 3,
+  "word_count": 382,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/55ba41c78df8ba3297915d261404ec4afee7751c_2_1024x204.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 5,
+        "username": "Emzy",
+        "name": "Stephan Oeste",
+        "avatar_template": "/user_avatar/bnoc.xyz/emzy/{size}/14_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

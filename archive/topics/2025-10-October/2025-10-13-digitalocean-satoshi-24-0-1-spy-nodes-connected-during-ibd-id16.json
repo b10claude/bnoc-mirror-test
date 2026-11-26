@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "title": "DigitalOcean /Satoshi:24.0.1/ spy nodes connected during IBD",
+  "fancy_title": "DigitalOcean /Satoshi:24.0.1/ spy nodes connected during IBD",
+  "slug": "digitalocean-satoshi-24-0-1-spy-nodes-connected-during-ibd",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 1,
+      "name": "spy-node",
+      "slug": "spy-node"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-10-13T18:08:15.041Z",
+  "last_posted_at": "2025-10-13T18:08:15.111Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 82,
+  "participant_count": 1,
+  "word_count": 425,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

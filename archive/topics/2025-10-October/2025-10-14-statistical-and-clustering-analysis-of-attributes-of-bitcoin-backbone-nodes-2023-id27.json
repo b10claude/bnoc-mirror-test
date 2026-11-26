@@ -1,0 +1,57 @@
+{
+  "id": 27,
+  "title": "Statistical and clustering analysis of attributes of Bitcoin backbone nodes (2023)",
+  "fancy_title": "Statistical and clustering analysis of attributes of Bitcoin backbone nodes (2023)",
+  "slug": "statistical-and-clustering-analysis-of-attributes-of-bitcoin-backbone-nodes-2023",
+  "category_id": 7,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-10-14T12:34:52.203Z",
+  "last_posted_at": "2025-10-14T12:34:52.275Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 58,
+  "participant_count": 1,
+  "word_count": 278,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

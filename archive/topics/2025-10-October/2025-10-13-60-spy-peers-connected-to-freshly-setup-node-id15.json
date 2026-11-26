@@ -1,0 +1,71 @@
+{
+  "id": 15,
+  "title": ">60% spy-peers connected to freshly setup node",
+  "fancy_title": "&gt;60% spy-peers connected to freshly setup node",
+  "slug": "60-spy-peers-connected-to-freshly-setup-node",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 1,
+      "name": "spy-node",
+      "slug": "spy-node"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-10-13T17:59:03.369Z",
+  "last_posted_at": "2025-12-09T17:10:31.327Z",
+  "posts_count": 3,
+  "reply_count": 0,
+  "like_count": 1,
+  "views": 176,
+  "participant_count": 3,
+  "word_count": 925,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/10198f27306802d21875dd0ccb541f729c959406_2_1023x657.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 24,
+      "username": "bruno",
+      "name": "Bruno Garcia",
+      "avatar_template": "/user_avatar/bnoc.xyz/bruno/{size}/83_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 16,
+        "username": "ajtowns",
+        "name": "Anthony Towns",
+        "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 24,
+        "username": "bruno",
+        "name": "Bruno Garcia",
+        "avatar_template": "/user_avatar/bnoc.xyz/bruno/{size}/83_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

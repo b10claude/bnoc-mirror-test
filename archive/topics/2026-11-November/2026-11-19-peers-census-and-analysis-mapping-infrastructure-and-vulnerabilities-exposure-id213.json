@@ -1,0 +1,88 @@
+{
+  "id": 213,
+  "title": "Peers Census and Analysis: Mapping, Infrastructure, and Vulnerabilities Exposure",
+  "fancy_title": "Peers Census and Analysis: Mapping, Infrastructure, and Vulnerabilities Exposure",
+  "slug": "peers-census-and-analysis-mapping-infrastructure-and-vulnerabilities-exposure",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    },
+    {
+      "id": 8,
+      "name": "addrman",
+      "slug": "addrman"
+    },
+    {
+      "id": 1,
+      "name": "spy-node",
+      "slug": "spy-node"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-11-19T15:25:38.561Z",
+  "last_posted_at": "2026-11-25T16:19:23.112Z",
+  "posts_count": 11,
+  "reply_count": 7,
+  "like_count": 10,
+  "views": 104,
+  "participant_count": 4,
+  "word_count": 3813,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/original/1X/2786b5c735bd167e76bd724070fe6de921f9c531.svg",
+  "user_id": 96,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 96,
+      "username": "ismaelsadeeq",
+      "name": "Abubakar Sadiq Ismail",
+      "avatar_template": "/user_avatar/bnoc.xyz/ismaelsadeeq/{size}/410_2.png"
+    },
+    "last_poster": {
+      "id": 82,
+      "username": "dutenrapha",
+      "name": "Raphael de Moraes Dutenkefer",
+      "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png"
+    },
+    "participants": [
+      {
+        "id": 96,
+        "username": "ismaelsadeeq",
+        "name": "Abubakar Sadiq Ismail",
+        "avatar_template": "/user_avatar/bnoc.xyz/ismaelsadeeq/{size}/410_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 23,
+        "username": "edilmedeiros",
+        "name": "Edil Medeiros",
+        "avatar_template": "/user_avatar/bnoc.xyz/edilmedeiros/{size}/82_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 82,
+        "username": "dutenrapha",
+        "name": "Raphael de Moraes Dutenkefer",
+        "avatar_template": "/user_avatar/bnoc.xyz/dutenrapha/{size}/257_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 197,
+  "title": "Large disruption in Tor exit node population: visible in your data?",
+  "fancy_title": "Large disruption in Tor exit node population: visible in your data?",
+  "slug": "large-disruption-in-tor-exit-node-population-visible-in-your-data",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-10-21T14:37:03.683Z",
+  "last_posted_at": "2026-10-21T23:05:44.885Z",
+  "posts_count": 2,
+  "reply_count": 0,
+  "like_count": 2,
+  "views": 51,
+  "participant_count": 2,
+  "word_count": 152,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/c0684e33af70fbb4cf295b12a1eca00297529d98_2_1024x537.png",
+  "user_id": 14,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 14,
+      "username": "jonhbit",
+      "name": "Jonathan Harvey-Buschel",
+      "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 14,
+        "username": "jonhbit",
+        "name": "Jonathan Harvey-Buschel",
+        "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

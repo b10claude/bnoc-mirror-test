@@ -1,0 +1,71 @@
+{
+  "id": 47,
+  "title": "Bitcoin Core addr gossip is rate-limited right after connection open",
+  "fancy_title": "Bitcoin Core addr gossip is rate-limited right after connection open",
+  "slug": "bitcoin-core-addr-gossip-is-rate-limited-right-after-connection-open",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-10-24T17:00:43.164Z",
+  "last_posted_at": "2025-12-08T17:26:13.112Z",
+  "posts_count": 8,
+  "reply_count": 2,
+  "like_count": 2,
+  "views": 155,
+  "participant_count": 3,
+  "word_count": 1019,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/77b2f65227886ddde07ed5a8cbc5bf30b518adaf_2_1024x368.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 3,
+      "username": "mzumsande",
+      "name": "Martin Zumsande",
+      "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 3,
+        "username": "mzumsande",
+        "name": "Martin Zumsande",
+        "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 21,
+        "username": "Crypt-iQ",
+        "name": "Eugene",
+        "avatar_template": "/user_avatar/bnoc.xyz/crypt-iq/{size}/177_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

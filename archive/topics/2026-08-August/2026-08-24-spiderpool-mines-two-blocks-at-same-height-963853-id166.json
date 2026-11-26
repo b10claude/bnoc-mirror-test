@@ -1,0 +1,64 @@
+{
+  "id": 166,
+  "title": "SpiderPool mines two blocks at same height 963853",
+  "fancy_title": "SpiderPool mines two blocks at same height 963853",
+  "slug": "spiderpool-mines-two-blocks-at-same-height-963853",
+  "category_id": 8,
+  "tags": [
+    {
+      "id": 4,
+      "name": "fork",
+      "slug": "fork"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-08-24T11:50:51.104Z",
+  "last_posted_at": "2026-09-02T14:36:59.722Z",
+  "posts_count": 6,
+  "reply_count": 2,
+  "like_count": 1,
+  "views": 63,
+  "participant_count": 2,
+  "word_count": 533,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/2a9f575307c8466b58d4edbf740a398583ff2b58_2_1024x781.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 16,
+        "username": "ajtowns",
+        "name": "Anthony Towns",
+        "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png",
+        "post_count": 2
+      }
+    ]
+  }
+}

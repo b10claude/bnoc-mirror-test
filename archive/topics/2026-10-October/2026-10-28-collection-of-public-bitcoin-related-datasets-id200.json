@@ -1,0 +1,51 @@
+{
+  "id": 200,
+  "title": "Collection of public Bitcoin related datasets",
+  "fancy_title": "Collection of public Bitcoin related datasets",
+  "slug": "collection-of-public-bitcoin-related-datasets",
+  "category_id": 5,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-10-28T19:39:42.909Z",
+  "last_posted_at": "2026-10-28T19:39:42.982Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 6,
+  "views": 50,
+  "participant_count": 1,
+  "word_count": 31,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

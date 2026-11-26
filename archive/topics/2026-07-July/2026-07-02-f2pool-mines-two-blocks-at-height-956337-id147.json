@@ -1,0 +1,71 @@
+{
+  "id": 147,
+  "title": "F2Pool mines two blocks at height 956337",
+  "fancy_title": "F2Pool mines two blocks at height 956337",
+  "slug": "f2pool-mines-two-blocks-at-height-956337",
+  "category_id": 8,
+  "tags": [
+    {
+      "id": 9,
+      "name": "f2pool",
+      "slug": "f2pool"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-07-02T09:49:50.637Z",
+  "last_posted_at": "2026-07-07T11:07:22.029Z",
+  "posts_count": 8,
+  "reply_count": 5,
+  "like_count": 4,
+  "views": 117,
+  "participant_count": 3,
+  "word_count": 636,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/original/1X/d76bb1232378f2128587969db335284c64791989.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 5
+      },
+      {
+        "id": 63,
+        "username": "sudocarlos",
+        "name": "Sudocarlos",
+        "avatar_template": "/user_avatar/bnoc.xyz/sudocarlos/{size}/176_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 72,
+        "username": "m4ycon",
+        "name": "Maycon Fabio",
+        "avatar_template": "/user_avatar/bnoc.xyz/m4ycon/{size}/203_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "title": "About the Observations category",
+  "fancy_title": "About the Observations category",
+  "slug": "about-the-observations-category",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2025-10-13T15:37:15.345Z",
+  "last_posted_at": "2025-10-13T15:37:15.354Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 42,
+  "participant_count": 1,
+  "word_count": 52,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": "2025-10-13T15:37:15.340Z",
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 1,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 1,
+      "username": "admin",
+      "name": "Administrator",
+      "avatar_template": "/user_avatar/bnoc.xyz/admin/{size}/10_2.png"
+    },
+    "last_poster": {
+      "id": 1,
+      "username": "admin",
+      "name": "Administrator",
+      "avatar_template": "/user_avatar/bnoc.xyz/admin/{size}/10_2.png"
+    },
+    "participants": [
+      {
+        "id": 1,
+        "username": "admin",
+        "name": "Administrator",
+        "avatar_template": "/user_avatar/bnoc.xyz/admin/{size}/10_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

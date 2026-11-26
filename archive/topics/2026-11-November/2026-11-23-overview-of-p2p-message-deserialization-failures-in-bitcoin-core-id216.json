@@ -1,0 +1,64 @@
+{
+  "id": 216,
+  "title": "Overview of P2P message deserialization failures in Bitcoin Core",
+  "fancy_title": "Overview of P2P message deserialization failures in Bitcoin Core",
+  "slug": "overview-of-p2p-message-deserialization-failures-in-bitcoin-core",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-11-23T20:32:53.013Z",
+  "last_posted_at": "2026-11-24T18:34:55.191Z",
+  "posts_count": 6,
+  "reply_count": 0,
+  "like_count": 6,
+  "views": 56,
+  "participant_count": 2,
+  "word_count": 1206,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 5
+      },
+      {
+        "id": 23,
+        "username": "edilmedeiros",
+        "name": "Edil Medeiros",
+        "avatar_template": "/user_avatar/bnoc.xyz/edilmedeiros/{size}/82_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

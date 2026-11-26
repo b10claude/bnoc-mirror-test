@@ -1,0 +1,58 @@
+{
+  "id": 77,
+  "title": "Historical Bitcoin Core IP address manager snapshots (via getrawaddrman)",
+  "fancy_title": "Historical Bitcoin Core IP address manager snapshots (via getrawaddrman)",
+  "slug": "historical-bitcoin-core-ip-address-manager-snapshots-via-getrawaddrman",
+  "category_id": 5,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-02-02T12:41:38.329Z",
+  "last_posted_at": "2026-06-12T07:09:03.824Z",
+  "posts_count": 3,
+  "reply_count": 0,
+  "like_count": 6,
+  "views": 131,
+  "participant_count": 2,
+  "word_count": 230,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/164a2db0922d6d25f7f87d8a20b931418d06ffe2_2_1024x512.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

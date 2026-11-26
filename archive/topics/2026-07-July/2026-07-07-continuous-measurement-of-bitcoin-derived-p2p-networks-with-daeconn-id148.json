@@ -1,0 +1,72 @@
+{
+  "id": 148,
+  "title": "Continuous Measurement of Bitcoin-Derived P2P Networks with DaeConn",
+  "fancy_title": "Continuous Measurement of Bitcoin-Derived P2P Networks with DaeConn",
+  "slug": "continuous-measurement-of-bitcoin-derived-p2p-networks-with-daeconn",
+  "category_id": 7,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-07-07T08:34:16.813Z",
+  "last_posted_at": "2026-07-13T07:54:01.668Z",
+  "posts_count": 5,
+  "reply_count": 1,
+  "like_count": 8,
+  "views": 85,
+  "participant_count": 4,
+  "word_count": 349,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 12,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 12,
+      "username": "matthias",
+      "name": "Matthias Grundmann",
+      "avatar_template": "/user_avatar/bnoc.xyz/matthias/{size}/39_2.png"
+    },
+    "last_poster": {
+      "id": 7,
+      "username": "deadmanoz",
+      "name": "Deadmanoz",
+      "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png"
+    },
+    "participants": [
+      {
+        "id": 12,
+        "username": "matthias",
+        "name": "Matthias Grundmann",
+        "avatar_template": "/user_avatar/bnoc.xyz/matthias/{size}/39_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 220,
+  "title": "Request: Transaction relay dataset",
+  "fancy_title": "Request: Transaction relay dataset",
+  "slug": "request-transaction-relay-dataset",
+  "category_id": 5,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-11-25T19:01:04.900Z",
+  "last_posted_at": "2026-11-25T19:12:17.869Z",
+  "posts_count": 2,
+  "reply_count": 0,
+  "like_count": 1,
+  "views": 14,
+  "participant_count": 2,
+  "word_count": 163,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 101,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 101,
+      "username": "seed-cat",
+      "name": "Seed Cat",
+      "avatar_template": "/user_avatar/bnoc.xyz/seed-cat/{size}/517_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 101,
+        "username": "seed-cat",
+        "name": "Seed Cat",
+        "avatar_template": "/user_avatar/bnoc.xyz/seed-cat/{size}/517_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

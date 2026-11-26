@@ -1,0 +1,51 @@
+{
+  "id": 137,
+  "title": "High CPU usage on Knots node causing connections to drop",
+  "fancy_title": "High CPU usage on Knots node causing connections to drop",
+  "slug": "high-cpu-usage-on-knots-node-causing-connections-to-drop",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-06-03T16:18:04.455Z",
+  "last_posted_at": "2026-06-12T07:52:54.373Z",
+  "posts_count": 7,
+  "reply_count": 0,
+  "like_count": 5,
+  "views": 204,
+  "participant_count": 1,
+  "word_count": 2479,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/original/1X/44802fa2e4bbd75d09b70939944936ed2c216fb1.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 7
+      }
+    ]
+  }
+}

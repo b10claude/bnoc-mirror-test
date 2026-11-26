@@ -1,0 +1,65 @@
+{
+  "id": 140,
+  "title": "ASmap dashboard: first version, looking for feedback",
+  "fancy_title": "ASmap dashboard: first version, looking for feedback",
+  "slug": "asmap-dashboard-first-version-looking-for-feedback",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-06-15T12:21:22.610Z",
+  "last_posted_at": "2026-06-25T14:24:30.849Z",
+  "posts_count": 5,
+  "reply_count": 1,
+  "like_count": 9,
+  "views": 130,
+  "participant_count": 3,
+  "word_count": 409,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 86,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 86,
+      "username": "jorisstrakeljahn",
+      "name": "Strakeljahn",
+      "avatar_template": "/user_avatar/bnoc.xyz/jorisstrakeljahn/{size}/275_2.png"
+    },
+    "last_poster": {
+      "id": 86,
+      "username": "jorisstrakeljahn",
+      "name": "Strakeljahn",
+      "avatar_template": "/user_avatar/bnoc.xyz/jorisstrakeljahn/{size}/275_2.png"
+    },
+    "participants": [
+      {
+        "id": 86,
+        "username": "jorisstrakeljahn",
+        "name": "Strakeljahn",
+        "avatar_template": "/user_avatar/bnoc.xyz/jorisstrakeljahn/{size}/275_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 63,
+        "username": "sudocarlos",
+        "name": "Sudocarlos",
+        "avatar_template": "/user_avatar/bnoc.xyz/sudocarlos/{size}/176_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

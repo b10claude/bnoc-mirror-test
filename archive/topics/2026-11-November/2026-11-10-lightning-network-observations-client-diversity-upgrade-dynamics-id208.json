@@ -1,0 +1,71 @@
+{
+  "id": 208,
+  "title": "Lightning network observations: Client diversity, upgrade dynamics,",
+  "fancy_title": "Lightning network observations: Client diversity, upgrade dynamics,",
+  "slug": "lightning-network-observations-client-diversity-upgrade-dynamics",
+  "category_id": 7,
+  "tags": [
+    {
+      "id": 5,
+      "name": "lightning",
+      "slug": "lightning"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-11-10T03:25:09.017Z",
+  "last_posted_at": "2026-11-11T15:28:12.227Z",
+  "posts_count": 4,
+  "reply_count": 1,
+  "like_count": 7,
+  "views": 75,
+  "participant_count": 3,
+  "word_count": 1438,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 62,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 62,
+      "username": "sorukumar",
+      "name": "Saurabh Kumar",
+      "avatar_template": "/user_avatar/bnoc.xyz/sorukumar/{size}/175_2.png"
+    },
+    "last_poster": {
+      "id": 62,
+      "username": "sorukumar",
+      "name": "Saurabh Kumar",
+      "avatar_template": "/user_avatar/bnoc.xyz/sorukumar/{size}/175_2.png"
+    },
+    "participants": [
+      {
+        "id": 62,
+        "username": "sorukumar",
+        "name": "Saurabh Kumar",
+        "avatar_template": "/user_avatar/bnoc.xyz/sorukumar/{size}/175_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 14,
+        "username": "jonhbit",
+        "name": "Jonathan Harvey-Buschel",
+        "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

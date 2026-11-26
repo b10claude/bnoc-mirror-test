@@ -1,0 +1,57 @@
+{
+  "id": 61,
+  "title": "Waves of (bad) addresses being gossiped",
+  "fancy_title": "Waves of (bad) addresses being gossiped",
+  "slug": "waves-of-bad-addresses-being-gossiped",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-11-26T16:52:34.503Z",
+  "last_posted_at": "2025-11-26T17:06:31.911Z",
+  "posts_count": 2,
+  "reply_count": 0,
+  "like_count": 4,
+  "views": 160,
+  "participant_count": 1,
+  "word_count": 318,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/0c222101e51fa5ecfa05e5d41fe582572d94279b_2_1024x363.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      }
+    ]
+  }
+}

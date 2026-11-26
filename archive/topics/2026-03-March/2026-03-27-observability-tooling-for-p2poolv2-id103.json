@@ -1,0 +1,64 @@
+{
+  "id": 103,
+  "title": "Observability tooling for P2Poolv2",
+  "fancy_title": "Observability tooling for P2Poolv2",
+  "slug": "observability-tooling-for-p2poolv2",
+  "category_id": 9,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-03-27T07:44:30.355Z",
+  "last_posted_at": "2026-04-01T04:11:53.940Z",
+  "posts_count": 3,
+  "reply_count": 1,
+  "like_count": 1,
+  "views": 110,
+  "participant_count": 2,
+  "word_count": 802,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 45,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 45,
+      "username": "jungly",
+      "name": "pool2win",
+      "avatar_template": "/user_avatar/bnoc.xyz/jungly/{size}/141_2.png"
+    },
+    "last_poster": {
+      "id": 45,
+      "username": "jungly",
+      "name": "pool2win",
+      "avatar_template": "/user_avatar/bnoc.xyz/jungly/{size}/141_2.png"
+    },
+    "participants": [
+      {
+        "id": 45,
+        "username": "jungly",
+        "name": "pool2win",
+        "avatar_template": "/user_avatar/bnoc.xyz/jungly/{size}/141_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

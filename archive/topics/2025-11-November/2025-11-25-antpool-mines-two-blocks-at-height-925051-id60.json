@@ -1,0 +1,64 @@
+{
+  "id": 60,
+  "title": "AntPool mines two blocks at height 925051",
+  "fancy_title": "AntPool mines two blocks at height 925051",
+  "slug": "antpool-mines-two-blocks-at-height-925051",
+  "category_id": 8,
+  "tags": [
+    {
+      "id": 4,
+      "name": "fork",
+      "slug": "fork"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2025-11-25T10:25:08.135Z",
+  "last_posted_at": "2026-07-02T09:50:55.121Z",
+  "posts_count": 4,
+  "reply_count": 1,
+  "like_count": 1,
+  "views": 184,
+  "participant_count": 2,
+  "word_count": 342,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/a2ef2bc68ee6e453f3f19500a3251e1ca13551b7_2_1024x726.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 188,
+  "title": "Follow-up to data request: research paper on passive, network attack",
+  "fancy_title": "Follow-up to data request: research paper on passive, network attack",
+  "slug": "follow-up-to-data-request-research-paper-on-passive-network-attack",
+  "category_id": 7,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-10-19T10:09:42.475Z",
+  "last_posted_at": "2026-10-19T19:26:40.961Z",
+  "posts_count": 2,
+  "reply_count": 0,
+  "like_count": 7,
+  "views": 55,
+  "participant_count": 2,
+  "word_count": 745,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 68,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 68,
+      "username": "cndolo",
+      "name": "Charmaine N",
+      "avatar_template": "/user_avatar/bnoc.xyz/cndolo/{size}/192_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 68,
+        "username": "cndolo",
+        "name": "Charmaine N",
+        "avatar_template": "/user_avatar/bnoc.xyz/cndolo/{size}/192_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

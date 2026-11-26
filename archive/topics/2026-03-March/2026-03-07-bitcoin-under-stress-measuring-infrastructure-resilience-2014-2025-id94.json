@@ -1,0 +1,58 @@
+{
+  "id": 94,
+  "title": "Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025",
+  "fancy_title": "Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025",
+  "slug": "bitcoin-under-stress-measuring-infrastructure-resilience-2014-2025",
+  "category_id": 7,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-03-07T00:43:40.258Z",
+  "last_posted_at": "2026-03-07T03:09:38.341Z",
+  "posts_count": 3,
+  "reply_count": 1,
+  "like_count": 3,
+  "views": 109,
+  "participant_count": 2,
+  "word_count": 341,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 5,
+      "username": "Emzy",
+      "name": "Stephan Oeste",
+      "avatar_template": "/user_avatar/bnoc.xyz/emzy/{size}/14_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 5,
+        "username": "Emzy",
+        "name": "Stephan Oeste",
+        "avatar_template": "/user_avatar/bnoc.xyz/emzy/{size}/14_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 114,
+  "title": "A BNOC data share?",
+  "fancy_title": "A BNOC data share?",
+  "slug": "a-bnoc-data-share",
+  "category_id": 5,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-04-09T20:39:23.983Z",
+  "last_posted_at": "2026-07-09T18:57:13.077Z",
+  "posts_count": 7,
+  "reply_count": 1,
+  "like_count": 10,
+  "views": 191,
+  "participant_count": 3,
+  "word_count": 496,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 5
+      },
+      {
+        "id": 14,
+        "username": "jonhbit",
+        "name": "Jonathan Harvey-Buschel",
+        "avatar_template": "/user_avatar/bnoc.xyz/jonhbit/{size}/57_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 30,
+        "username": "GuiSchet",
+        "name": "Guille",
+        "avatar_template": "/user_avatar/bnoc.xyz/guischet/{size}/97_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

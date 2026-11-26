@@ -1,0 +1,51 @@
+{
+  "id": 113,
+  "title": "BNOC Zulip Chat",
+  "fancy_title": "BNOC Zulip Chat",
+  "slug": "bnoc-zulip-chat",
+  "category_id": 2,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-04-09T20:32:41.960Z",
+  "last_posted_at": "2026-04-09T20:32:42.048Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 64,
+  "participant_count": 1,
+  "word_count": 17,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

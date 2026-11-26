@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#1a1a2e"/>
+  <rect x="5" y="5" width="54" height="54" fill="#3d3200" stroke="#f0c040" stroke-width="6"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Courier New, Courier, monospace" font-weight="bold" font-size="26" fill="#f0c040">110</text>
+</svg>

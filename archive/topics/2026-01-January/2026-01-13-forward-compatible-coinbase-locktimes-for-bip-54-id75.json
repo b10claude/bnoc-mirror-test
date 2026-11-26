@@ -1,0 +1,58 @@
+{
+  "id": 75,
+  "title": "Forward-compatible coinbase locktimes for BIP-54",
+  "fancy_title": "Forward-compatible coinbase locktimes for BIP-54",
+  "slug": "forward-compatible-coinbase-locktimes-for-bip-54",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-01-13T12:23:22.150Z",
+  "last_posted_at": "2026-06-10T09:56:36.719Z",
+  "posts_count": 11,
+  "reply_count": 3,
+  "like_count": 17,
+  "views": 465,
+  "participant_count": 2,
+  "word_count": 752,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/original/1X/b3a6b7d0140a8a4c6ccb7cd1b1ce7335dbce63d3.png",
+  "user_id": 2,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "last_poster": {
+      "id": 2,
+      "username": "b10c",
+      "name": "b10c",
+      "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png"
+    },
+    "participants": [
+      {
+        "id": 9,
+        "username": "Antoine",
+        "name": "Antoine Poinsot",
+        "avatar_template": "/user_avatar/bnoc.xyz/antoine/{size}/36_2.png",
+        "post_count": 6
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 5
+      }
+    ]
+  }
+}

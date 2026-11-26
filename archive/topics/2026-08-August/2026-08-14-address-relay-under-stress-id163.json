@@ -1,0 +1,90 @@
+{
+  "id": 163,
+  "title": "Address Relay under stress",
+  "fancy_title": "Address Relay under stress",
+  "slug": "address-relay-under-stress",
+  "category_id": 7,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    },
+    {
+      "id": 8,
+      "name": "addrman",
+      "slug": "addrman"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-08-14T17:27:35.105Z",
+  "last_posted_at": "2026-09-15T16:36:35.797Z",
+  "posts_count": 8,
+  "reply_count": 3,
+  "like_count": 9,
+  "views": 199,
+  "participant_count": 5,
+  "word_count": 2456,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 3,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 3,
+      "username": "mzumsande",
+      "name": "Martin Zumsande",
+      "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png"
+    },
+    "last_poster": {
+      "id": 3,
+      "username": "mzumsande",
+      "name": "Martin Zumsande",
+      "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png"
+    },
+    "participants": [
+      {
+        "id": 3,
+        "username": "mzumsande",
+        "name": "Martin Zumsande",
+        "avatar_template": "/user_avatar/bnoc.xyz/mzumsande/{size}/11_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 75,
+        "username": "naiyoma",
+        "name": "Naiyoma ",
+        "avatar_template": "/user_avatar/bnoc.xyz/naiyoma/{size}/225_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 16,
+        "username": "ajtowns",
+        "name": "Anthony Towns",
+        "avatar_template": "/user_avatar/bnoc.xyz/ajtowns/{size}/64_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 21,
+        "username": "Crypt-iQ",
+        "name": "Eugene",
+        "avatar_template": "/user_avatar/bnoc.xyz/crypt-iq/{size}/177_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

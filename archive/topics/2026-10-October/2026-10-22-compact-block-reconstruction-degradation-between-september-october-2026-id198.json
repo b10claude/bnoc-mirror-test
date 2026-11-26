@@ -1,0 +1,79 @@
+{
+  "id": 198,
+  "title": "Compact block reconstruction degradation between September - October 2026",
+  "fancy_title": "Compact block reconstruction degradation between September - October 2026",
+  "slug": "compact-block-reconstruction-degradation-between-september-october-2026",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-10-22T22:58:59.472Z",
+  "last_posted_at": "2026-11-14T03:27:46.325Z",
+  "posts_count": 15,
+  "reply_count": 6,
+  "like_count": 22,
+  "views": 267,
+  "participant_count": 5,
+  "word_count": 7820,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": true,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/cb7ac4e412b41149f7c86106ffd4523ad0e214eb_2_1024x600.png",
+  "user_id": 72,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 72,
+      "username": "m4ycon",
+      "name": "Maycon Fabio",
+      "avatar_template": "/user_avatar/bnoc.xyz/m4ycon/{size}/203_2.png"
+    },
+    "last_poster": {
+      "id": 72,
+      "username": "m4ycon",
+      "name": "Maycon Fabio",
+      "avatar_template": "/user_avatar/bnoc.xyz/m4ycon/{size}/203_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 5
+      },
+      {
+        "id": 72,
+        "username": "m4ycon",
+        "name": "Maycon Fabio",
+        "avatar_template": "/user_avatar/bnoc.xyz/m4ycon/{size}/203_2.png",
+        "post_count": 4
+      },
+      {
+        "id": 97,
+        "username": "benunskilled",
+        "name": "Benunskilled",
+        "avatar_template": "/user_avatar/bnoc.xyz/benunskilled/{size}/411_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 44,
+        "username": "octaviolucca",
+        "name": "Octavio Lucca",
+        "avatar_template": "/user_avatar/bnoc.xyz/octaviolucca/{size}/135_2.png",
+        "post_count": 2
+      },
+      {
+        "id": 7,
+        "username": "deadmanoz",
+        "name": "Deadmanoz",
+        "avatar_template": "/user_avatar/bnoc.xyz/deadmanoz/{size}/20_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

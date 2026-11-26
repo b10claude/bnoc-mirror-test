@@ -1,0 +1,72 @@
+{
+  "id": 45,
+  "title": "Increase in the number of reachable IPv4 nodes (bitprojects.io)",
+  "fancy_title": "Increase in the number of reachable IPv4 nodes (bitprojects.io)",
+  "slug": "increase-in-the-number-of-reachable-ipv4-nodes-bitprojects-io",
+  "category_id": 6,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2025-10-21T12:45:47.623Z",
+  "last_posted_at": "2026-10-02T16:33:48.407Z",
+  "posts_count": 12,
+  "reply_count": 3,
+  "like_count": 9,
+  "views": 415,
+  "participant_count": 4,
+  "word_count": 897,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": "https://bnoc.xyz/uploads/default/optimized/1X/9dc74ff00dc91584c3884cf27b85a19468764db3_2_1024x512.png",
+  "user_id": 12,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 12,
+      "username": "matthias",
+      "name": "Matthias Grundmann",
+      "avatar_template": "/user_avatar/bnoc.xyz/matthias/{size}/39_2.png"
+    },
+    "last_poster": {
+      "id": 43,
+      "username": "stratospher",
+      "name": "stratospher",
+      "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png"
+    },
+    "participants": [
+      {
+        "id": 2,
+        "username": "b10c",
+        "name": "b10c",
+        "avatar_template": "/user_avatar/bnoc.xyz/b10c/{size}/4_2.png",
+        "post_count": 7
+      },
+      {
+        "id": 12,
+        "username": "matthias",
+        "name": "Matthias Grundmann",
+        "avatar_template": "/user_avatar/bnoc.xyz/matthias/{size}/39_2.png",
+        "post_count": 3
+      },
+      {
+        "id": 8,
+        "username": "instagibbs",
+        "name": "Gregory Sanders",
+        "avatar_template": "/user_avatar/bnoc.xyz/instagibbs/{size}/34_2.png",
+        "post_count": 1
+      },
+      {
+        "id": 43,
+        "username": "stratospher",
+        "name": "stratospher",
+        "avatar_template": "/user_avatar/bnoc.xyz/stratospher/{size}/134_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}
