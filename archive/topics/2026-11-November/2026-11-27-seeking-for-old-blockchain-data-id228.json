@@ -1,0 +1,51 @@
+{
+  "id": 228,
+  "title": "Seeking for old blockchain data",
+  "fancy_title": "Seeking for old blockchain data",
+  "slug": "seeking-for-old-blockchain-data",
+  "category_id": 5,
+  "tags": [],
+  "tags_descriptions": {},
+  "created_at": "2026-11-27T19:34:03.024Z",
+  "last_posted_at": "2026-11-27T19:34:03.100Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 9,
+  "participant_count": 1,
+  "word_count": 121,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 104,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 104,
+      "username": "kirilldanilov257-deb",
+      "name": "Kirilldanilov257 Debug",
+      "avatar_template": "/user_avatar/bnoc.xyz/kirilldanilov257-deb/{size}/524_2.png"
+    },
+    "last_poster": {
+      "id": 104,
+      "username": "kirilldanilov257-deb",
+      "name": "Kirilldanilov257 Debug",
+      "avatar_template": "/user_avatar/bnoc.xyz/kirilldanilov257-deb/{size}/524_2.png"
+    },
+    "participants": [
+      {
+        "id": 104,
+        "username": "kirilldanilov257-deb",
+        "name": "Kirilldanilov257 Debug",
+        "avatar_template": "/user_avatar/bnoc.xyz/kirilldanilov257-deb/{size}/524_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 229,
+  "title": "An observation on ports",
+  "fancy_title": "An observation on ports",
+  "slug": "an-observation-on-ports",
+  "category_id": 6,
+  "tags": [
+    {
+      "id": 3,
+      "name": "p2p",
+      "slug": "p2p"
+    }
+  ],
+  "tags_descriptions": {},
+  "created_at": "2026-11-28T09:16:19.728Z",
+  "last_posted_at": "2026-11-28T09:16:19.814Z",
+  "posts_count": 1,
+  "reply_count": 0,
+  "like_count": 0,
+  "views": 4,
+  "participant_count": 1,
+  "word_count": 191,
+  "archetype": "regular",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "has_accepted_answer": false,
+  "image_url": null,
+  "user_id": 75,
+  "deleted_at": null,
+  "details": {
+    "created_by": {
+      "id": 75,
+      "username": "naiyoma",
+      "name": "Naiyoma ",
+      "avatar_template": "/user_avatar/bnoc.xyz/naiyoma/{size}/225_2.png"
+    },
+    "last_poster": {
+      "id": 75,
+      "username": "naiyoma",
+      "name": "Naiyoma ",
+      "avatar_template": "/user_avatar/bnoc.xyz/naiyoma/{size}/225_2.png"
+    },
+    "participants": [
+      {
+        "id": 75,
+        "username": "naiyoma",
+        "name": "Naiyoma ",
+        "avatar_template": "/user_avatar/bnoc.xyz/naiyoma/{size}/225_2.png",
+        "post_count": 1
+      }
+    ]
+  }
+}
